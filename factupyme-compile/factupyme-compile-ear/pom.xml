@@ -4,11 +4,11 @@
     
 
     <groupId>com.factupyme</groupId>
-    <artifactId>factupyme-compile</artifactId>
+    <artifactId>factupyme-compile-ear</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>ear</packaging>
 
-    <name>factupyme-compile</name>
+    <name>factupyme-compile-ear</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

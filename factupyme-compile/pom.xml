@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
   
   <!-- PARENT IDENTIFICATION -->
-  <parent>
+  <!-- <parent>
     <groupId>standard.master.core</groupId>
     <artifactId>standard-master-core</artifactId>
     <version>1.0.0</version>
-  </parent>
+  </parent> -->
   
   <!-- Module Identification-->
   <groupId>com.factupyme</groupId>
@@ -18,7 +18,7 @@
   <name>factupyme-compile</name>
   
   <modules>
-    <module>factupyme-compile</module>
+    <module>factupyme-compile-ear</module>
   </modules>
   
 </project>
